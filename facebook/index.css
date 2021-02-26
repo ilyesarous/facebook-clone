@@ -32,7 +32,7 @@ body{
     float: right;
     box-shadow: -2px 2px 15px rgb(209, 209, 209);
 }
-#email input[type="text"]{
+#email input[type="email"]{
     font-size: 17px;
     padding: 14px 16px;
     width: 330px;
@@ -45,7 +45,7 @@ body{
     padding-left: 17px;
     font-size: 17px;
 }
-#email input[type="text"]:focus{
+#email input[type="email"]:focus{
     border: 2px;
     border-radius: 6px;
     border-style: ridge;
